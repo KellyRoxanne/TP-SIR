@@ -1,0 +1,28 @@
+# Éclipse
+.métadonnées
+Bac/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.propriétés
+.paramètres/
+.chemin de classe
+.project
+ 
+# Java
+*.classe
+*.jar
+*.Guerre
+*.oreille
+ 
+# Maven
+Cible/
+ 
+# Journaux
+*.log
+ 
+# Fichiers OS
+.DS_Store
+Thumbs.db
